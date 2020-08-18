@@ -1,7 +1,7 @@
 {
   "name": "saleor-storefront",
   "description": "A GraphQL-powered, PWA, single-page storefront application for Saleor",
-  "repository": "https://github.com/mirumee/saleor-storefront",
+  "repository": "https://github.com/clickboxchile/cbx-demo",
   "website": "http://getsaleor.com/",
   "logo": "https://mirumee.com/img/opensource_saleor.jpg",
   "keywords": ["saleor", "e-commerce", "storefront"],
